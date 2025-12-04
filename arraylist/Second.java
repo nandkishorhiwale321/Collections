@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class Second {
 	public static void main (String [] args) {
 		/*
-		 * Add Array into another Arraylist
-		 * 
+		 * Add Array into another Arraylist 
+		 *
 		 */
 		
 		ArrayList<String> list = new ArrayList<String>();
