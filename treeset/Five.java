@@ -19,7 +19,7 @@ public abstract class Five
 		set.add(c3);
 		set.add(c4);
 		
-		System.out.println(set);
+		//System.out.println(set);
 		
 		int i =1;
 		
