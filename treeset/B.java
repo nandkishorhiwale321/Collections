@@ -41,7 +41,7 @@ public class B {
 		System.out.println("*-*-*- Maximum to minimum salary-*-*-*\n");
 		for(Salary sa :set) {
 			
-			System.out.println(i+" "+sa);
+			System.out.println(i+". "+sa);
 			
 			i++;
 		}
@@ -50,7 +50,7 @@ public class B {
 		System.out.println("\n*-*-*-Minimum ti maximum salary-*-*-*\n");
 		for(Salary  sa :set.descendingSet()) {
 			
-			System.out.println(i+" "+sa);
+			System.out.println(i+". "+sa);
 			
 			i++;
 			
